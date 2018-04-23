@@ -1,0 +1,10 @@
+ 三个贯穿一切
+
+ @Repository
+
+
+ @Service  +@Autowired
+
+
+
+ @RestController   +  @Autowired
